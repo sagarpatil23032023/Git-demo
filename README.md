@@ -1,2 +1,3 @@
 # Git-demo
-This is my git Repository
+This is my first git Repository
+author - sagar patil
